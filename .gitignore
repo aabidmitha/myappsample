@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 dir2/app2.js
 *.txt
+=======
+log.txt
+/dir2
+>>>>>>> login
